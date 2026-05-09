@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ✨ **Latest Projects**
 
-- 🕯️ [LUMIÈRE by Anelisa](https://anelisarasmeni.github.io/Lumi-re-by-Anelisa/)
+- 🕯️ [LUMIÈRE by Anelisa](https://anelisarasmeni.com/)
 - 🌐 [Portfolio Website](https://anelisarasmeni.github.io/portfolio-/)
 - ⚖️ [Law Firm Website](https://www.mbhiyozoattorneys.co.za/)
 
